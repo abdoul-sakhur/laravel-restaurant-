@@ -1,0 +1,99 @@
+/* MA PARTIE ADMINISTRATION */
+html,
+body {
+    height: 100%;
+    background: #eef8ff;
+}
+::-webkit-scrollbar{
+  width: 8px;
+}
+::-webkit-scrollbar-track{
+  background-color: #fff;
+}
+::-webkit-scrollbar-thumb{
+  background-color: #eef8ff;
+  border-radius: 5px;
+}
+
+nav{
+  background-color: #fff;
+  width: 80%;
+  padding: 50px;
+  border-radius: 5px;
+  margin: 0 auto;
+}
+ .form_container #search{
+  background-color: #eef8ff;
+  border: none;
+  outline: none;
+  box-shadow: none;
+ }
+
+ .form_container #search_btn{
+  background-color: #eef8ff;
+  width: 40px;
+  height: 40px;
+  border-radius:50% ;
+ }
+#set_container{
+margin-left: 40px;
+}
+
+#set_container .settings ,.profile{
+  margin: 5px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #eef8ff;
+  border: 1px solid grey;
+ }
+.logo{
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 5px;
+}
+.main{
+  background-color: #fff;
+}
+.ul li {
+  list-style-type: none;
+
+}
+.ul li{
+  background-color: #fff;
+  border-radius: 0px 30px 30px 0px;
+  margin-top: 30px;
+  padding: 15px;
+
+}
+.ul li a {
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: bold;
+ 
+  color: grey;
+ 
+}
+#row_form input{
+  box-shadow: none;
+  outline: none;
+  border: none;
+  background-color: #eef8ff;
+  padding: 10px;
+}
+#btn_ajout{
+  border: none;
+  background-color: #98d1f9;
+  
+}
+.dashcard{
+  width: 300px;
+  height: 100px;
+ border: none;
+}
+.overview {
+  border: none;
+}
+/* FIN DE MA PARTIE ADMINISTRATION */
+
+/* DEBUT DE MA PARTIE CLIENT  */
