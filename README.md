@@ -9,7 +9,7 @@
 
 laravel-restaurant-
 application web de restaurant développé en laravel 10
-
+![Capture d’écran 2024-05-12 165820](https://github.com/abdoul-sakhur/laravel-restaurant-/assets/126367134/0c102896-45cb-4dfa-a6d1-4416948f2189)
 Travailler sur un projet comme un site web de restaurant peut être passionnant et inspirant, surtout lorsqu'il s'agit de ma deuxième application Laravel. C'est une opportunité fantastique pour mettre en pratique ce que j'ai appris et pour continuer à développer mes compétences en développement web. Fonctionnalités principales : Authentification utilisateur :
 
 Les utilisateurs peuvent s'inscrire, se connecter et gérer leur compte. Les utilisateurs peuvent réinitialiser leur mot de passe en cas d'oubli. Gestion du menu :
